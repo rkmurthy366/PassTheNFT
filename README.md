@@ -14,3 +14,6 @@ In this game the users wont have any idea when the "WIN" is declared in the NFT.
 - The NFT stops updating after the WIN is declared
 - The cost to mint this NFT is free except for gas-fees
 - Unlimited number of NFTs can be minted
+
+## Pics
+![pic5](https://github.com/trk286/PassTheNFT/blob/cb1db352e02fd38395146522f74d32e9a6bc5828/PassTheNFT.PNG)
